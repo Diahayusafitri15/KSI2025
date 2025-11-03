@@ -1,6 +1,0 @@
-db_sqlite.sqlite
-.env
-.DS_Store
-Thumbs.db
-/node_modules/
-/.vscode/
